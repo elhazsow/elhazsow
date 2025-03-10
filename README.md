@@ -11,7 +11,7 @@
 
 ## GitHub Stats
 
-![elhazsow's GitHub stats](https://github-readme-stats.vercel.app/api?username=elhazsow)
+![elhazsow's GitHub stats](https://github-readme-stats.vercel.app/api?username=elhazsow&theme=tokyonight)
 
 ## Top Languages
 
